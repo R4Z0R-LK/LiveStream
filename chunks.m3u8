@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:2897
+#EXTINF:6,
+http://watchindia.net:8880/live/vvv/vvv/1070.ts
+#EXTINF:6,
+http://watchindia.net:8880/live/vvv/vvv/2292.ts
+#EXTINF:6,
+http://watchindia.net:8880/live/vvv/vvv/1070.ts
+#EXTINF:6,
+http://watchindia.net:8880/live/vvv/vvv/2292.ts
