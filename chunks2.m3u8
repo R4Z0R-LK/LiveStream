@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:6
-#EXT-X-TARGETDURATION:6
+#EXT-X-TARGETDURATION:11
 #EXT-X-MEDIA-SEQUENCE:1070
-#EXTINF:3,
+#EXTINF:10,
 http://watchindia.net:8880/live/vvv/vvv/1070.ts
-#EXTINF:3,
+#EXTINF:10,
 http://watchindia.net:8880/live/vvv/vvv/1070.ts
-#EXTINF:3,
-https://github.com/nandunuditha/LiveStream/raw/main/chunks2.m3u8
+#EXTINF:10,
+chunks2.m3u8
